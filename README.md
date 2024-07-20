@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Masked-404
 - 👀 I’m interested in Game Dev
 - 🌱 I’m currently learning Csharp language
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I am not interested in cooperation.
 - 📫 How to reach me: im.masked404@gmail.com
 - 😄 Pronouns: Game Dev, Unity, Unreal Engine, C#, C++
 - ⚡ Fun fact: I have a Youtube channel! https://www.youtube.com/@immasked404
